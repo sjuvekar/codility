@@ -1,4 +1,5 @@
 def solution(S):
+    S += " "
     max_len = -1
     cur_len = 0
     n_digits = 0
